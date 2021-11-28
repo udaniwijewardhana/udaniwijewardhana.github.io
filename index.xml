@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Udani A. Wijewardhana</title>
+    <link>https://uwijewardhana.github.io/</link>
+    <description>Recent content on Udani A. Wijewardhana</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 27 Jul 2021 12:40:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://uwijewardhana.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Talks</title>
+      <link>https://uwijewardhana.github.io/talk/</link>
+      <pubDate>Tue, 27 Jul 2021 12:40:00 +0000</pubDate>
+      
+      <guid>https://uwijewardhana.github.io/talk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>https://uwijewardhana.github.io/publication/</link>
+      <pubDate>Fri, 20 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://uwijewardhana.github.io/publication/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>curriculums</title>
+      <link>https://uwijewardhana.github.io/curriculum/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://uwijewardhana.github.io/curriculum/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://uwijewardhana.github.io/project/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://uwijewardhana.github.io/project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Softwares</title>
+      <link>https://uwijewardhana.github.io/software/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://uwijewardhana.github.io/software/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
