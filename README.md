@@ -1,5 +1,7 @@
 ## uwijewardhana.github.io
 
+### udaniwijewardhana.com
+
 Repository for my [personal webpage](https://uwijewardhana.github.io), built using the `R` package `blogdown` and the [academic theme](https://sourcethemes.com/academic/)
 
 Resources used to built this webpage
