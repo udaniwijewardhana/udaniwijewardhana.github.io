@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Udani A. Wijewardhana</title>
-    <link>https://uwijewardhana.github.io/project/</link>
+    <link>https://udaniwijewardhana.github.io/project/</link>
     <description>Recent content in Projects on Udani A. Wijewardhana</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     
-	    <atom:link href="https://uwijewardhana.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://udaniwijewardhana.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Analysis of incentive scheme of a reputed shoe company Sri Lanka</title>
-      <link>https://uwijewardhana.github.io/project/clsa/</link>
+      <link>https://udaniwijewardhana.github.io/project/clsa/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://uwijewardhana.github.io/project/clsa/</guid>
+      <guid>https://udaniwijewardhana.github.io/project/clsa/</guid>
       <description>&lt;p&gt;CLSA is the sole distributor of all factories and other brands of footwear and other related products. Lorry loads of goods are being received and dispatched to various locations employing number of employees. There is an incentive system to motivate employees to expedite loading, sorting, unloading etc. which was not effective.The aim of this research is to build a better incentive scheme to improve the efficiency and productivity of the employees. Monte Carlo Simulation and train a Neural Network was used for this purpose through existing details.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Effect of climate for the persistence of Hooded Plover on Mornington Peninsula using citizen science data</title>
-      <link>https://uwijewardhana.github.io/project/zim/</link>
+      <link>https://udaniwijewardhana.github.io/project/zim/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://uwijewardhana.github.io/project/zim/</guid>
+      <guid>https://udaniwijewardhana.github.io/project/zim/</guid>
       <description>&lt;p&gt;The Hooded Plover is a non-migratory local shorebird in Australia. The Hooded Plover is listed as a vulnerable bird species under the IUCN red list assessment criteria. In this study we identify the effect of climate for Hooded Plover on Mornington Peninsula in spatio-temporal scale. In order to clarify the effect of climate on the persistence of the Hooded Plover we have used the annual citizen science data available in ALA, which has a large amount of validated observational data. To quantify any effects of climate, we have considered the mean annual temperature, and total rainfall. Citizen science count data often includes excess zeros for rare species like the Hooded Plover in specific areas or time periods. Therefore, we have compared the most common zero inflation models which are Zero Inflated models and Hurdle models using Poisson and Negative Binomial distributions while using spatio-temporal structure. In spatio-temporal models the performance of the Negative Binomial Hurdle model was superior. Temperature has a significantly positive effect while rainfall has a significantly negative effect on probability of zero counts of Hooded Plover which means presence of Hooded Plover is associated with lower temperature and higher rainfall. This work shows that statistical models can be used to address the challenges associated with the use of citizen science data for monitoring the persistence of rare birds, while identifying factors affecting this persistence such as climate.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Mathematical models for predicting debt repayment</title>
-      <link>https://uwijewardhana.github.io/project/debt/</link>
+      <link>https://udaniwijewardhana.github.io/project/debt/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://uwijewardhana.github.io/project/debt/</guid>
+      <guid>https://udaniwijewardhana.github.io/project/debt/</guid>
       <description>&lt;p&gt;Debt collection is a massive industry, with in USA alone more than $50 billion recovered each year.
 However, the information available is often limited and incomplete, and predicting whether a given
 debtor would repay is inherently a challenging task. This has amplified research on debt recovery
@@ -51,30 +51,30 @@ assumptions of the models are satisfied.&lt;/p&gt;
     
     <item>
       <title>Modelling the recovery of local shorebirds using citizen science data following a fox eradication program</title>
-      <link>https://uwijewardhana.github.io/project/chgp/</link>
+      <link>https://udaniwijewardhana.github.io/project/chgp/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://uwijewardhana.github.io/project/chgp/</guid>
+      <guid>https://udaniwijewardhana.github.io/project/chgp/</guid>
       <description>&lt;p&gt;In the past fox predation was the greatest land-based threat for shorebird colonies on Phillip Island, Victoria, Australia. Regular fox control for 20 years reduced the fox population, but shorebirds and seabirds including the Little Penguin continued to be decimated. Therefore, a fox eradication program was started in 2006, with three phases called knock-down, clean-up and post-eradication. An effective knock-down was declared in 2011, heralding the start of the clean-up phase. The impact of fox eradication on local shorebirds has never been thoroughly assessed in this context. This study aims to track the recovery of six local shorebird species found on Phillip Island including the locally threatened Hooded Plover and Sooty Oystercatcher. The methods used break new ground for assessing the recovery of bird species populations during a successful pest eradication program. We have used citizen science data for 2003 to 2017, extracted from the Atlas of Living Australia. The first method used is INLA modelling assuming a Poisson distribution for bird counts, in order to test for upward trends in shorebird numbers during the fox eradication program. The second method involves changepoint analyses to test whether the successive phases of the eradication process relate to changes in bird count levels. Three of the six shorebird species considered exhibited a significant positive response to reduced fox numbers over this period and all changepoint methods consistently identified the start of the clean-up phase. However, there was less consistency in the case of the start of the knock-down phase. The INLA models suggest an increase in the number of shorebirds for most species since 2006. Agreement in the changepoints identified by the four changepoint methods suggests that for all these shorebird species, changes in bird numbers were linked to the timing of the eradication program’s clean-up phase. These methods show some promise for monitoring the recovery of native species during conservation programs; however, the use of citizen science data is a serious limitation of this study.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Optimal Distribution Schedule for Lunar Clothing Manufacturing Company in Sri Lanka</title>
-      <link>https://uwijewardhana.github.io/project/opti/</link>
+      <link>https://udaniwijewardhana.github.io/project/opti/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://uwijewardhana.github.io/project/opti/</guid>
+      <guid>https://udaniwijewardhana.github.io/project/opti/</guid>
       <description>&lt;p&gt;Lunar Clothing is a business enterprise which manufactures clothes for vendors who operates in six provinces named Western, Southern, Central, North West, North Central and Sabaragamuwa. Each province has a single hub and each hub has six clothing stores located in different places in particular province. Clothes are distributed to the vendors according to their request. Main store is located at Negombo free trade zone in Western province. The main objective of this study is to generate an optimal distribution schedule to minimize the total transportation cost. To achieve this, we considered three conditions such as size of the item requested by the vendors, the weather conditions of the local roads and the distance between the hubs and the vendors.The Lunar Clothing problem is one of the complex situations in shortest path Algorithm. This study is about the usage of traveling salesman algorithm for real world scenario. The entire problem has been decomposed to four major tasks such as dispatching the truck from main store to provincial hubs, assigning vendors for six stores in each provincial hub, transporting clothes from provincial hubs to vendors and dispatching ships to foreign ports. Then each and every task was analyzed and solved by using relevant algorithm. For mathematical modeling part and to generate the solution, Lingo software has been used. Some assumptions have been done in tasks for simplification. Then the optimal distribution schedule for Lunar Clothing has been implemented for processes in both inside and outside the country.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Statistical modelling with citizen science data for the local shorebirds on the Mornington Peninsula</title>
-      <link>https://uwijewardhana.github.io/project/lsa/</link>
+      <link>https://udaniwijewardhana.github.io/project/lsa/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://uwijewardhana.github.io/project/lsa/</guid>
+      <guid>https://udaniwijewardhana.github.io/project/lsa/</guid>
       <description>&lt;p&gt;Climate variability has been identified as a possible threat to the biodiversity of shorebirds on the Mornington Peninsula and is likely to apply in both protected and unprotected areas. In the absence of comprehensive survey data this study used citizen science bird counts, extracted from the Atlas of Living Australia, to assess which species were most likely to be threatened by climate variability  and which species benefit most from protected areas. This was done by fitting temporal models using the Integrated Laplace Approximation (INLA) method. The trends for six resident shorebird species were compared to the Australian Pied Oystercatcher, with significantly steeper upward trends identified for the Black-fronted Dotterel, Red-capped Dotterel and Red-kneed Dotterel. Steeper upward trends were observed in protected than unprotected areas for the Black-fronted Dotterel, Masked Lapwing and Red-kneed Dotterel. Only the Hooded Plover showed a significant response to temperature, with lower numbers in warmer years. This work suggests that, with some limitations, statistical models can be used with citizen science data for monitoring the persistence of resident shorebirds and for investigating factors that are impacting these data. The results for the Dotterel species in protected areas are particularly encouraging, however, it seems that the higher temperatures expected in the future may adversely affect the Hooded Plover.&lt;/p&gt;
 </description>
     </item>
